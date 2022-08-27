@@ -7,7 +7,7 @@ function arredonda(nota) {
 }
 
 function classificaAluno(nota) {
-    notaArredondada = arredonda(nota);
+    const notaArredondada = arredonda(nota);
     if (notaArredondada < 40) {
         return "Reprovado com nota: " + notaArredondada;
     } else {
@@ -17,7 +17,6 @@ function classificaAluno(nota) {
 
 
 var readlineSync = require('readline-sync');
-
 console.log('Informe a nota do estudante!');
 
 console.log(classificaAluno(Number(readlineSync.question('Nota: '))));

@@ -12,13 +12,15 @@ Crie um código JS que receba os comprimentos dos lados de um triângulo atravé
 
 ## Observações
 
-Fiz o input pelo console mesmo, usei o pacote `readline-sync`.
+* Incialmente, tentei partir para fazer alguma coisa mais elegante, tinha até a ideia de implementar um `switch-case`, mas no final fiquei com os velhos if-else. 
 
-Instalei o mesmo usando o npm com o seguinte comando:
+* Achei interessante separar a validação do triângulo em outro método, dessa forma deixa o código modular. Sem falar que aquele if com uma condição gigantesca tava batendo uma agonia(rs).
+
+* Fiz o input pelo console mesmo, usei o pacote `readline-sync`. Instalei o mesmo usando o npm com o seguinte comando:
 
     npm install readline-sync    
 
-Achei interessante separar a validação do triângulo em outro método, dessa forma deixa o código modular. Sem falar que aquele if com uma condição gigantesca tava batendo uma agonia(rs).
+
 
 
 

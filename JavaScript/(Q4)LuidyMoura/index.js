@@ -1,5 +1,5 @@
 function LuidyMoura(cont) {
-    var array = [];
+    let array = [];
     for (var i = 0; i < cont; i++) {
         if ((i + 1) % 5 == 0 && (i + 1) % 9 == 0) {
             array.push("LuidyMoura");

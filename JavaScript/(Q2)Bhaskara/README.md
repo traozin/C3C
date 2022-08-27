@@ -12,4 +12,6 @@ Caso o delta seja negativo, retorne, ao invés do vetor, um string com a frase: 
 
 ## Observações
 
-Utilizei o `Math.sqrt` para retirar a raiz de delta.
+* Nada de reinventar a roda. Fiz um código simples, porém eficiente.
+
+* Utilizei o `Math.sqrt` para retirar a raiz de delta.
