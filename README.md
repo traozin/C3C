@@ -6,11 +6,11 @@ Esse repositório tem o intuito de centralizar todas as soluções para os desaf
 
 ### ATENÇÃO ⚠
 
-Tudo estará separado por projeto e para **todo** projeto, existirá um `README.md` que o contextualizará sobre o projeto e a ideia do mesmo.
+Tudo estará categorizado por linguagem e cada linguagem está separada por projeto. Para **todo** projeto, existirá um `README.md` que o contextualizará sobre o mesmo.
 
 ## Soluções
 
 | Categoria | Descrição |
 | :-----: | :--: |
 | [JavaScript](/javascript) | Desafios referentes a 2ª Fase do processo | 
-
+| [Apex](https://cdn.dicionariopopular.com/imagens/emoji-olho.jpg) | Em breve... |
