@@ -12,5 +12,5 @@ Tudo estará categorizado por linguagem e cada linguagem está separada por proj
 
 | Categoria | Descrição |
 | :-----: | :--: |
-| [JavaScript](/javascript) | Desafios referentes a 2ª Fase do processo | 
+| [JavaScript](/JavaScript) | Desafios referentes a 2ª Fase do processo | 
 | [Apex](https://cdn.dicionariopopular.com/imagens/emoji-olho.jpg) | Em breve... |
