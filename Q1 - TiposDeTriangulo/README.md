@@ -21,3 +21,4 @@ Instalei o mesmo usando o npm com o seguinte comando:
 Achei interessante separar a validação do triângulo em outro método, dessa forma deixa o código modular. Sem falar que aquele if com uma condição gigantesca tava batendo uma agonia(rs).
 
 
+
